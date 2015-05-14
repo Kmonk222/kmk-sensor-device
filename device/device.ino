@@ -33,8 +33,6 @@ int luxPin = 1;
 
 
 //cc3000 and PubSub variables                                         
-void callback(char* topic, byte* payload, unsigned int length); 
-
 void callback(char* topic, byte* payload, unsigned int length) {
     
 }
