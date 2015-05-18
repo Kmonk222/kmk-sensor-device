@@ -12,8 +12,8 @@
 #define aref_voltage 3.3
 
 
-#define WLAN_SSID       "StickmanPrivate"
-#define WLAN_PASS       "a5730c3a59"
+#define WLAN_SSID       "*********"
+#define WLAN_PASS       "*********"
 
 #define WLAN_SECURITY   WLAN_SEC_WPA2
 
